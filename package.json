@@ -1,0 +1,29 @@
+{
+  "name": "virtual-dom-framework",
+  "version": "1.0.0",
+  "description": "```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroshimuto9/virtual-dom-framework.git"
+  },
+  "keywords": [],
+  "author": "hiroshimuto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiroshimuto9/virtual-dom-framework/issues"
+  },
+  "homepage": "https://github.com/hiroshimuto9/virtual-dom-framework#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.2",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
